@@ -2,3 +2,6 @@
 !.gitignore
 !.nojekyll
 !index.html
+!quiz.html
+!points.html
+!mindmap.html
